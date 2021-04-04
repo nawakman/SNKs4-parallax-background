@@ -1,0 +1,57 @@
+body {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; 
+  overflow: hidden;
+  margin: 0; /* important sinon c'est décalé */
+  padding: 0; /* important sinon c'est décalé */
+}
+
+.soldier1{
+  left:1260px  !important;
+  top: 561px !important;
+}
+.soldier2{
+  left:1152px  !important;
+  top: 702px !important;
+}
+.soldier3{
+  left:810px  !important;
+  top: 721px !important;
+}
+.soldier4{
+  left:720px  !important;
+  top: 825px !important;
+}
+.soldier5{
+  left:550px  !important;
+  top: 850px !important;
+}
+.soldier6{
+  left:425px  !important;
+  top: 925px !important;
+}
+.soldier7{
+  left: 60px  !important;
+  top: 947px !important;
+}
+
+.explosion1{
+  left:1468px !important;
+  top: -50px !important;
+}
+.explosion2{
+  left:780px  !important;
+  top: -20px !important;
+}
+.explosion3{
+  left:370px  !important;
+  top: 120px !important;
+}
+.explosion4{
+  top: 310px !important;
+  left: -20px !important;
+}
